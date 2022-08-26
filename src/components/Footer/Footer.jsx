@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div className={styling.foot}>
             <img src={design} alt="design" className={styling.design} />
-            <p className={styling.after}>mg_firtina</p>
+            <p className={styling.after}>abdurrahman</p>
         </div>
     );
 };
