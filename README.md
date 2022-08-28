@@ -21,4 +21,4 @@ AXIOS
 ## Preview
 
 
-![Form](RandomUser.gif)
+![Form](https://github.com/abdurrahmankucuk90/randomuserapp/blob/master/RandomUser.gif)
